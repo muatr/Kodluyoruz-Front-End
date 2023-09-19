@@ -1,0 +1,36 @@
+/******* Website CSS *******/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+span {
+    background-color: lightgrey;
+}
+
+.bg {
+    background-color: darkslategrey;
+}
+
+.main {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    color: rgb(186, 36, 36);
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+}
+
+li {
+    list-style-position: inside;
+}
+
