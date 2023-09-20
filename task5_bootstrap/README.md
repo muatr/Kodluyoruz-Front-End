@@ -1,3 +1,3 @@
 # Bootstrap - Computer Peripherals
 
-![gif](https://github.com/muatr/Kodluyoruz-Front-End/blob/main/task5_bootstrap/video.gif)
+![gif](https://raw.githubusercontent.com/muatr/Kodluyoruz-Front-End/main/task5_bootstrap/video.gif)
